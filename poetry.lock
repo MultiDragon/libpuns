@@ -1,0 +1,15 @@
+[[package]]
+name = "panda3d"
+version = "1.10.10"
+description = "Panda3D is a framework for 3D rendering and game development for Python and C++ programs."
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.10"
+content-hash = "c370d0d16532a1f2f91057ea158caa6a5642dde8b7c7bd40ebcf98d1a74bdce3"
+
+[metadata.files]
+panda3d = []
